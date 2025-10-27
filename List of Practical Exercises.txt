@@ -1,0 +1,32 @@
+List of Practical Exercises
+Practical Exercise #2.01: Retrieving Market Indexes Data
+Practical Exercise #2.02: Handling missing values
+Practical Exercise #2.03: Descriptive analysis of market indexes
+Practical Exercise #3.01: Equity Optimal Portfolios
+Practical Exercise #3.02: Efficient Frontier
+Practical Exercise #3.03: Capital Market Line
+Practical Exercise #3.04: Security Market Line
+Practical Exercise #3.05: CAPM Portfolio
+Practical Exercise #3.06: Historical Simulation VaR
+Practical Exercise #3.07: Parametric VaR
+Practical Exercise #3.08: Monte Carlo VaR
+Practical Exercise #3.09: Monte Carlo Simulation (with normal distribution) 
+Practical Exercise #3.10: Monte Carlo Simulation (with log-normal distribution) 
+Practical Exercise #3.11: Monte Carlo Simulation (with t-Student distribution) 
+Practical Exercise #4.01: Bond Characteristics
+Practical Exercise #4.02: Bond Optimal Portfolio
+Practical Exercise #4.03: Bullet, Barbell, Ladder Portfolios
+Practical Exercise #4.04: Inmunization
+Practical Exercise #4.05: Cash Flow Matching
+Practical Exercise #5.01: Equity Portfolio Return Atribution
+Practical Exercise #5.02: Fixed Income Portfolio Return Atribution
+Practical Exercise #6.01: Comparing fund performance with benchmark performance
+Practical Exercise #6.02: Comparing fund performance with benchmark performance
+Practical Exercise #6.03. Comparing fund performance with benchmark performance
+Practical Exercise #7.01: Factor Evolution
+Practical Exercise #7.02: Fama-French 3-Factor Model
+Practical Exercise #7.03: Carhart 4-Factor Model
+Practical Exercise #7.04: Fama-French 5-Factor Model
+Practical Exercise #7.05: Analyzing Factor Portfolios
+Practical Exercise #7.06: Smart Beta Portfolio (equally-weighted) versus Index
+ Practical Exercise #7.07: Smart Beta Portfolio (momentum) versus Index
